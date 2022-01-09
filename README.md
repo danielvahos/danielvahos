@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence, machine learning, robotics, control engineering, IoT and computer vision.
 - 🌱 I’m currently learning how to perform monitoring machinery through IoT 
 - 💞️ I’m looking to collaborate on different interesting projects related to what I like. 
-- 📫 How to reach me: my e-mails are daniel.vame@gmail.com and Daniel.Vahos@eia.edu.co
+- 📫 How to reach me: my e-mails are daniel.vame@gmail.com and daniel.vahosmendoza@telecom-paris.fr
 
 <!---
 danielvahosm/danielvahosm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
