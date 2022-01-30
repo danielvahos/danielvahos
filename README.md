@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danielvahosm
+- 👋 Hi, I’m @danielvahos
 - 👀 I’m interested in artificial intelligence, machine learning, robotics, embedded systems, FPGA, IoT and computer vision.
 - 🌱 I’m currently studying my second year of engineering (Master 1) at Télécom Paris with the following specializations: Data Science and Embedded Systems.
 - 🌱 I studied mechatronics engineering at Universidad EIA (Colombia)
