@@ -5,17 +5,13 @@
 """
 Hello there, dear visitor! 😃
 
-If you've arrived upon this code, you're about to embark on a journey through the 'source code' of my life.
-
-Here's a quick walkthrough:
+Here's a quick walkthrough the 'source code' of my life:
     1. 'Person' - This class holds the simple truths of my being - my name, age, and location. The building blocks of identity, if you will.
     2. 'Developer' - Here's where it gets interesting. This class is the heart of my technical person, filled with the languages I speak, both human and machine, my education, my experiences, and more.
     3. 'Hobbyist' - Just as important as my professional life, this class holds the activities that bring me joy and relaxation in my downtime and make me feel complete.
     4. 'Me' - At the intersection of Person, Developer, and Hobbyist, 'Me' emerges. A synergy of all aspects of my life, it is an authentic representation of who I am.
 
-So, go ahead, run this little program. Enjoy this unique glimpse into the life of a passionate learner, AI enthusiast, data cruncher, and human being.
-
-And remember, 'Me' is a work in progress, ever-evolving, forever learning, always growing and mainly thanks to others. So stay tuned for more 'commits' and 'pushes' 🌱
+And remember, 'Me' is a work in progress, ever-evolving, forever learning and mainly thanks to others. So stay tuned for more 'commits' and 'pushes' 🌱
 """
 
 class Person:
